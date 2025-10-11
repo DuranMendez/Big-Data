@@ -1,7 +1,8 @@
 # Factors influencing desease incidence. Project proposal
 
 Exploratory Analysis of Patterns and Correlations in STD Incidence Using Large-Scale Public Health Data.  
-Proposal project for big data analytics.
+Big data analytics project proposal.  
+This project involves a large and heterogeneous dataset, combining multiple sources and formats, requiring advanced data processing and analysis techniques.  
 
 
 ---
