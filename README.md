@@ -1,4 +1,4 @@
-# Factors influencing STD incidence. Project proposal
+# Factors influencing STD incidence.  
 
 Exploratory Analysis of Patterns and Correlations in STD Incidence Using Large-Scale Public Health Data.  
 Big data analytics project proposal.  
