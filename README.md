@@ -1,14 +1,10 @@
-# Big-Data
+# Factors influencing desease incidence. Project proposal
 
-Exploratory Analysis of Patterns and Correlations in STD Incidence Using Large-Scale Public Health Data. Proposal  
+Exploratory Analysis of Patterns and Correlations in STD Incidence Using Large-Scale Public Health Data.  
+Proposal project for big data analytics.
 
-To view all projects, visit the main portfolio page in the **Contact** section below.
 
 ---
+  
 
-## 📫 Contact
-
-**Murpys D. Mendez**  
-murpys@gmail.com  
-
-[Portfolio Website](https://duranmendez.github.io/Data-Science-Portfolio/)
+[View Full Document](https://duranmendez.github.io/desease-incidence-project-proposal/Project_Proposal.pdf)
